@@ -7,7 +7,7 @@ A simple program to calculate L1 cache block size and associativity
         
         1.  $ gcc block_size.c -o block_size
         2.  $ ./block_size
-            (repeat muliple times and take an average to reduce noise)
+       (repeat muliple times and take an average to reduce noise)
 
     The ouput given will give latency spikes at new block access.
         

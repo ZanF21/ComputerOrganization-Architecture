@@ -20,3 +20,5 @@ Eg: if L1 is 0x1e, it should be given as JMP 1 e
 - The Instruction cache is read only and the address used is different for Icache and Dcache.
   i.e. address 0x2 of ICache and address 0x2 of DCache need not have same value
 - All values in .txt files (except Output.txt) will be given as one byte per line, in hexadecimal (without 0x)
+
+This project was a team project done by <a href="https://github.com/rizan21">myself<\a> and <a href="">Chathurvedhi<\a>.

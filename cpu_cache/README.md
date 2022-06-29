@@ -5,13 +5,15 @@ A simple program to calculate L1 cache block size and associativity
 -   Enter the directory with block_size.c, associativity.c
 -   In the command prompt use following commands:
         
-        1.  $ gcc block_size.c -o block_size
-        2.  $ ./block_size
+            $ gcc block_size.c -o block_size
+            $ ./block_size
        (repeat muliple times and take an average to reduce noise)
 
     The ouput given will give latency spikes at new block access.
         
-        3.  $ gcc associativity.c -o associativity
-        4.  $ ./associativity
+            $ gcc associativity.c -o associativity
+            $ ./associativity
     
     The ouptup given will be the average latency for a block access.  
+
+This assignment was a team assignment and was done by <a href="https://github.com/rizan21">myself</a> and <a href="">Chathurvedhi</a>.
